@@ -12,6 +12,21 @@ _Click on the links to listen to the podcasts directly on Spotify!_
 
 ## Table of Contents
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English Podcasts:** 
-- 🇳🇱 **Dutch Podcasts:**
-- 🇸🇦 **Arabic Podcasts:**
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English Podcasts:**
+- [Machine Learning Streettalk](#english-podcasts)
+- 🇳🇱 **Nederlandse Podcasts:**
+- [Het AI Songfestival](#nederlandse-podcasts)
+- 🇸🇦 **Arabic Podcats:**
+- [AI-Talks Arabic](#arabic-podcasts)
+
+## English Podcasts
+
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
+
+## Nederlandse Podcasts
+
+### 🇳🇱 [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
+
+## Arabic Podcasts
+
+### 🇸🇦 [AI-Talk Arabic](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
