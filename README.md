@@ -19,6 +19,8 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ## English Podcasts
 
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
+
 ### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
 
 ## Nederlandse Podcasts
