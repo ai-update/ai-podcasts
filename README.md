@@ -29,6 +29,6 @@ _Click on the links to listen to the podcasts directly on Spotify!_
 
 ### 🇳🇱 [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
-## Arabic Podcasts
+## البودكاست العربية
 
-### 🇸🇦 [AI-Talk Arabic](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
+### البودكاست العربي 🇸🇦 [AI-Talk Arab](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
