@@ -27,6 +27,8 @@ _Click on the links to listen to the podcasts directly on Spotify!_
 
 ### 🇳🇱 [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
 
+### 🇳🇱 [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
+
 ## Arabic Podcasts
 
 ### 🇸🇦 [AI-Talk Arabic](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
