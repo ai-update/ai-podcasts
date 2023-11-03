@@ -6,9 +6,7 @@
 
 Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦 
 
-_Click on the links to listen to the podcasts directly on Spotify!_
-
-👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
+#### 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
