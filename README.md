@@ -2,11 +2,11 @@
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
-ℹ️ A collection of **podcasts** on **AI** 
+ℹ️ A collection of **podcasts** on **AI**.
 
-Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦 
+🗣️ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦 
 
-#### 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
+👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
@@ -17,11 +17,13 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 - [Het AI Songfestival](#nederlandse-podcasts)
 - [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
 #### 🇸🇦 Arabic Podcats:
-- [AI-Talks Arabic](#arabic-podcasts)
+- [AI-Talks Arabic](#البودكاست-العربية) 
 
 ## English Podcasts
 
 ### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 BBC | [Living with Artificial Intelligence](https://www.bbc.co.uk/programmes/m001216k)
+
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MIT Technology Review | [In Machines We Trust](https://player.fm/series/in-machines-we-trust)
 
 ### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Radboud University | [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
 
@@ -29,11 +31,11 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ## Nederlandse Podcasts
 
+### 🇳🇱 Dag & Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
+
 ### 🇳🇱 De Dataloog | [De Dataloog](https://dedataloog.nl/)
 
 ### 🇳🇱 VPRO | [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
-
-### 🇳🇱 Dag & Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
 
 ## البودكاست العربية
