@@ -10,28 +10,30 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ## Table of Contents
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
+#### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
 - [Machine Learning Streettalk](#english-podcasts)
-### 🇳🇱 Nederlandse Podcasts:
+#### 🇳🇱 Nederlandse Podcasts:
 - [De Dataloog](#nederlandse-podcasts)
 - [Het AI Songfestival](#nederlandse-podcasts)
 - [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
-### 🇸🇦 Arabic Podcats:
+#### 🇸🇦 Arabic Podcats:
 - [AI-Talks Arabic](#arabic-podcasts)
 
 ## English Podcasts
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 BBC | [Living with Artificial Intelligence](https://www.bbc.co.uk/programmes/m001216k)
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Radboud University | [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
+
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tim Scarfe | [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
 
 ## Nederlandse Podcasts
 
-### 🇳🇱 [De Dataloog](https://dedataloog.nl/)
+### 🇳🇱 De Dataloog | [De Dataloog](https://dedataloog.nl/)
 
-### 🇳🇱 [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
+### 🇳🇱 VPRO | [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
 
-### 🇳🇱 [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
+### 🇳🇱 Dag en Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
 
 ## البودكاست العربية
