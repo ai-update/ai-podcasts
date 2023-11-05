@@ -10,11 +10,13 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ## Table of Contents
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English Podcasts:**
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
 - [Machine Learning Streettalk](#english-podcasts)
-- 🇳🇱 **Nederlandse Podcasts:**
+### 🇳🇱 Nederlandse Podcasts:
+- [De Dataloog](#nederlandse-podcasts)
 - [Het AI Songfestival](#nederlandse-podcasts)
-- 🇸🇦 **Arabic Podcats:**
+- [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
+### 🇸🇦 Arabic Podcats:
 - [AI-Talks Arabic](#arabic-podcasts)
 
 ## English Podcasts
@@ -25,13 +27,13 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ## Nederlandse Podcasts
 
+### 🇳🇱 [De Dataloog](https://dedataloog.nl/)
+
 ### 🇳🇱 [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
 
 ### 🇳🇱 [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
-## 中文播客
 
-### 🇨🇳 即将推出
-## (البودكاست العربية)
+## البودكاست العربية
 
 ### البودكاست العربي 🇸🇦 [AI-Talk Arab](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
