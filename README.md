@@ -33,7 +33,7 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ### 🇳🇱 VPRO | [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
 
-### 🇳🇱 Dag en Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
+### 🇳🇱 Dag & Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
 
 ## البودكاست العربية
