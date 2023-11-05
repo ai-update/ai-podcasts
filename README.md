@@ -29,6 +29,9 @@ Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦
 
 ### 🇳🇱 [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
-## البودكاست العربية
+## 中文播客
+
+### 🇨🇳 即将推出
+## (البودكاست العربية)
 
 ### البودكاست العربي 🇸🇦 [AI-Talk Arab](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
