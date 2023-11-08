@@ -13,9 +13,9 @@
 ### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
 - [Machine Learning Streettalk](#english-podcasts)
 ### 🇳🇱 Nederlandse Podcasts:
+- [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
 - [De Dataloog](#nederlandse-podcasts)
 - [Het AI Songfestival](#nederlandse-podcasts)
-- [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
 ### 🇸🇦 Arabic Podcats:
 - [AI-Talks Arabic](#البودكاست-العربية) 
 
