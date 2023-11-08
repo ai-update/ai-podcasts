@@ -10,34 +10,34 @@
 
 ## Table of Contents
 
-#### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Podcasts:
 - [Machine Learning Streettalk](#english-podcasts)
-#### 🇳🇱 Nederlandse Podcasts:
+### 🇳🇱 Nederlandse Podcasts:
 - [De Dataloog](#nederlandse-podcasts)
 - [Het AI Songfestival](#nederlandse-podcasts)
 - [POKI - Podcast over Kunstmatige Intelligentie AI](#nederlandse-podcasts)
-#### 🇸🇦 Arabic Podcats:
+### 🇸🇦 Arabic Podcats:
 - [AI-Talks Arabic](#البودكاست-العربية) 
 
 ## English Podcasts
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 BBC | [Living with Artificial Intelligence](https://www.bbc.co.uk/programmes/m001216k)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 BBC | [Living with Artificial Intelligence](https://www.bbc.co.uk/programmes/m001216k)
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MIT Technology Review | [In Machines We Trust](https://player.fm/series/in-machines-we-trust)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 MIT Technology Review | [In Machines We Trust](https://player.fm/series/in-machines-we-trust)
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Radboud University | [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Radboud University | [AI for Life](https://open.spotify.com/show/2HGbn1N9FS8ekqOuR3QrhH)
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tim Scarfe | [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tim Scarfe | [Machine Learning Streettalk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
 
 ## Nederlandse Podcasts
 
-### 🇳🇱 Dag & Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
+🇳🇱 Dag & Nacht Media | [POKI - Podcast over Kunstmatige Intelligentie AI](https://art19.com/shows/poki)
 
-### 🇳🇱 De Dataloog | [De Dataloog](https://dedataloog.nl/)
+🇳🇱 De Dataloog | [De Dataloog](https://dedataloog.nl/)
 
-### 🇳🇱 VPRO | [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
+🇳🇱 VPRO | [Het AI Songfestival](https://www.vpro.nl/programmas/ai-songfestival.html)
 
 
 ## البودكاست العربية
 
-### البودكاست العربي 🇸🇦 [AI-Talk Arab](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
+البودكاست العربي 🇸🇦 [AI-Talk Arab](https://open.spotify.com/show/5PaoYlo3lYZwvgDlqX6u29)
